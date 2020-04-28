@@ -5,6 +5,6 @@ Aplicativo que recebe a quantidade de KM percorridos por um carro e, a quantidad
 ## Installing / Getting started
 
 ```shell
-yarn or npm install
+yarn ou npm install
 yarn start ou npm start
 ```
